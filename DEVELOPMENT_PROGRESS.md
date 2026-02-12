@@ -16,7 +16,7 @@
 ### 🔄 Em Progresso (Fase 2)
 - [x] AdMob SDK configuration
 - [x] Arquivos de som (MP3)
-- [ ] Unit tests básicos
+- [x] Unit tests básicos
 - [ ] Screenshots para App Store
 - [ ] Política de privacidade
 

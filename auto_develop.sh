@@ -26,7 +26,7 @@ update_progress() {
 # Function to check if task is complete
 task_complete() {
     local task="$1"
-    grep -q "- \[x\] $task" "$PROGRESS_FILE"
+    grep -q "\\- \\[x\\] $task" "$PROGRESS_FILE"
 }
 
 # Function to mark task complete
