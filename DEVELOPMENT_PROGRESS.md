@@ -21,7 +21,7 @@
 - [x] AdMob SDK configuration melhorada
 - [x] Sistema de desenvolvimento automático
 - [x] Screenshots para App Store
-- [ ] Política de privacidade  
+- [x] Política de privacidade  
 - [ ] **Sistema de temas visuais** (próxima implementação)
 
 ### 📋 V1.1 - "Visual & Gamification" (Próximas Features)
@@ -104,7 +104,7 @@
 - [x] Análise competitiva ✅
 - [x] Product backlog ✅
 - [ ] Screenshots automáticos
-- [ ] Política de privacidade
+- [x] Política de privacidade
 - [ ] V1.1 features start
 
 ### **Próximo Mês** 
