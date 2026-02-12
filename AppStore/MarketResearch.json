@@ -1,0 +1,65 @@
+{
+  "global_opportunity": {
+    "total_ios_users": "1.2B worldwide",
+    "target_markets": {
+      "tier_1": [
+        "US",
+        "UK",
+        "DE",
+        "CA",
+        "AU"
+      ],
+      "tier_2": [
+        "FR",
+        "IT",
+        "ES",
+        "NL",
+        "SE"
+      ],
+      "tier_3": [
+        "MX",
+        "AR",
+        "KR",
+        "JP",
+        "IN"
+      ]
+    },
+    "revenue_potential": {
+      "current_brazil": "$150-400/month",
+      "after_tier_1": "$750-2000/month",
+      "after_tier_2": "$1500-4000/month",
+      "after_tier_3": "$3000-10000/month"
+    }
+  },
+  "localization_priority": {
+    "phase_1": [
+      "en",
+      "pt"
+    ],
+    "phase_2": [
+      "es",
+      "de",
+      "fr"
+    ],
+    "phase_3": [
+      "it",
+      "nl",
+      "sv"
+    ],
+    "phase_4": [
+      "ko",
+      "ja",
+      "hi"
+    ]
+  },
+  "cultural_considerations": {
+    "colors": {
+      "avoid_red_china": "Red can mean danger in China",
+      "green_positive_global": "Green universally positive for winning"
+    },
+    "symbols": {
+      "x_o_universal": "X and O symbols work globally",
+      "emoji_support": "Emoji support increases appeal"
+    }
+  }
+}

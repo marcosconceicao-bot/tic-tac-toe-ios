@@ -1,0 +1,90 @@
+/* 
+   Localizable.strings (Portuguese - Brasil)
+   TicTacToe iOS
+*/
+
+/* Main Menu */
+"game_title" = "Jogo da Velha";
+"new_game" = "Novo Jogo";
+"settings" = "Configurações";
+"achievements" = "Conquistas";
+"themes" = "Temas";
+
+/* Game Modes */
+"game_mode_selection" = "Escolha o Modo de Jogo";
+"player_vs_player" = "Jogador vs Jogador";
+"player_vs_ai" = "Jogador vs IA";
+"mode_description_pvp" = "Jogue contra um amigo localmente";
+"mode_description_ai" = "Desafie a IA com diferentes dificuldades";
+
+/* Difficulty Levels */
+"difficulty_selection" = "Escolha a Dificuldade";
+"difficulty_easy" = "Fácil";
+"difficulty_medium" = "Médio";
+"difficulty_hard" = "Difícil";
+"difficulty_easy_desc" = "IA faz movimentos aleatórios";
+"difficulty_medium_desc" = "IA joga defensivamente";
+"difficulty_hard_desc" = "IA é imbatível";
+
+/* Game States */
+"game_in_progress" = "Jogo em andamento";
+"player_x_wins" = "Jogador X Venceu! 🎉";
+"player_o_wins" = "Jogador O Venceu! 🎉";
+"game_draw" = "Empate! 🤝";
+"current_player" = "Jogador Atual: %@";
+"tap_to_start" = "Toque para começar a jogar!";
+
+/* Achievements */
+"achievements_title" = "Conquistas";
+"achievement_first_victory" = "Primeira Vitória";
+"achievement_first_victory_desc" = "Vença seu primeiro jogo";
+"achievement_getting_good" = "Ficando Bom";
+"achievement_getting_good_desc" = "Vença 10 jogos";
+"achievement_expert_player" = "Jogador Expert";
+"achievement_expert_player_desc" = "Vença 50 jogos";
+"achievement_ai_slayer" = "Matador de IA";
+"achievement_ai_slayer_desc" = "Vença a IA Difícil";
+"achievement_perfect_game" = "Jogo Perfeito";
+"achievement_perfect_game_desc" = "Vença sem o oponente fazer jogadas";
+"achievement_quick_draw" = "Saque Rápido";
+"achievement_quick_draw_desc" = "Vença em menos de 30 segundos";
+"achievement_comeback_kid" = "Reviravolta";
+"achievement_comeback_kid_desc" = "Vença perdendo";
+"achievement_speedster" = "Velocista";
+"achievement_speedster_desc" = "Jogue 100 jogos";
+"achievement_dedicated" = "Dedicado";
+"achievement_dedicated_desc" = "Jogue 7 dias seguidos";
+"achievement_unlocked" = "Conquista Desbloqueada!";
+
+/* Themes */
+"themes_title" = "Escolha Seu Estilo";
+"theme_classic" = "Clássico";
+"theme_dark" = "Escuro";
+"theme_neon" = "Neon";
+"theme_paper" = "Papel";
+"theme_minimal" = "Minimalista";
+"theme_selected" = "Selecionado";
+
+/* Settings */
+"settings_title" = "Configurações";
+"audio_settings" = "Áudio";
+"sound_effects" = "Efeitos Sonoros";
+"sound_effects_desc" = "Reproduzir sons para movimentos e eventos";
+"haptics_settings" = "Tátil";
+"vibration" = "Vibração";
+"vibration_desc" = "Feedback tátil para movimentos";
+"game_info" = "Informações do Jogo";
+"total_games" = "Total de Jogos";
+"current_mode" = "Modo Atual";
+"about" = "Sobre";
+"version" = "Versão";
+"made_with_love" = "Feito com ❤️ por Marcos Conceição";
+
+/* Buttons & Actions */
+"done" = "Concluído";
+"cancel" = "Cancelar";
+"ok" = "OK";
+"yes" = "Sim";
+"no" = "Não";
+"reset_score" = "Resetar Pontuação";
+"reset_score_confirm" = "Tem certeza que quer resetar toda a pontuação?";

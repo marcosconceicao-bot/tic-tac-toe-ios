@@ -55,6 +55,18 @@
 
 ## ✅ SHOULD HAVE - V1.2 (Update Médio)
 
+### **S0. Internacionalização (English Launch)** 🌍
+- **User Story**: "Como jogador global, quero usar o app no meu idioma nativo"
+- **Acceptance Criteria**:
+  - [ ] English localization (115 strings)
+  - [ ] US/UK/AU App Store optimization
+  - [ ] Cultural adaptations (colors, symbols)
+  - [ ] Regional pricing strategy
+- **Story Points**: 8
+- **ROI**: MASSIVO - 5x user base potential
+- **Market**: 500M iOS users vs 50M current
+- **Revenue**: $400/mês → $2K/mês
+
 ### **S1. Multiplayer Online Real-time**
 - **User Story**: "Como jogador, quero jogar contra amigos online"
 - **Acceptance Criteria**:
@@ -186,12 +198,13 @@
 - ✅ Tutorial
 - **Target**: Aumentar retention 30%
 
-### **V1.2 - "Social & Economy"** (2 meses)
+### **V1.2 - "International & Social"** (2 meses)
+- ✅ **INTERNACIONALIZAÇÃO** (English + 4 languages)
 - ✅ Multiplayer online
 - ✅ Coin system & Shop
 - ✅ Daily challenges
 - ✅ Leaderboards
-- **Target**: DAU +50%, Revenue +40%
+- **Target**: DAU +400% (global markets), Revenue +500%
 
 ### **V2.0 - "Advanced Features"** (4 meses)
 - ✅ Ultimate mode
@@ -218,9 +231,9 @@
 - **Revenue**: $45-200/mês
 - **Users**: 650-1300 MAU
 
-### **After V1.2** (+50% DAU, +40% revenue)
-- **Revenue**: $100-400/mês
-- **Users**: 1000-2000 MAU
+### **After V1.2** (+400% DAU via international, +500% revenue)
+- **Revenue**: $750-2K/mês (English markets)
+- **Users**: 5K-15K MAU (global expansion)
 - **Sources**: Ads (60%) + IAP (40%)
 
 ### **After V2.0** (Premium tier)

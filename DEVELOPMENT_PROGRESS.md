@@ -25,18 +25,20 @@
 - [ ] **Sistema de temas visuais** (próxima implementação)
 
 ### 📋 V1.1 - "Visual & Gamification" (Próximas Features)
-- [ ] **Sistema de temas** - 5 temas (Classic, Dark, Neon, Paper, Minimal)
-- [ ] **Sistema de achievements** - 15 conquistas com progressão
+- [x] **Sistema de temas** - 5 temas (Classic, Dark, Neon, Paper, Minimal) ✅
+- [x] **Sistema de achievements** - 15 conquistas com progressão ✅
 - [ ] **Estatísticas detalhadas** - Win rate, streaks, performance
 - [ ] **Tutorial interativo** - Onboarding + dicas AI
-- [ ] **Theme selection UI** - Interface moderna de seleção
 
-### 📋 V1.2 - "Social & Economy" (2 meses)
+### 📋 V1.2 - "International & Social" (MASSIVE GROWTH - 2 meses)
+- [ ] **🌍 INTERNACIONALIZAÇÃO** - English + 4 languages (5x user base!)
+- [ ] **📱 App Store global** - US/UK/DE/FR/ES optimization
 - [ ] **Multiplayer online real-time** - GameCenter integration
 - [ ] **Coin system & Shop** - Economia virtual + IAP
 - [ ] **Daily challenges** - Tarefas diárias para retenção
 - [ ] **Global leaderboards** - Rankings competitivos
-- [ ] **Rewarded ads** - Coins por assistir anúncios
+
+**🚀 PRIORIDADE MÁXIMA**: Internacionalização = $400/mês → $2K+/mês potential!
 
 ### 📋 V2.0 - "Advanced Features" (4 meses)
 - [ ] **Ultimate Tic Tac Toe** - Modo 9x9 estratégico
