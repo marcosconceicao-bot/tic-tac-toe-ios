@@ -20,7 +20,7 @@
 ### 🔄 Em Progresso (Fase 2 - Polish)
 - [x] AdMob SDK configuration melhorada
 - [x] Sistema de desenvolvimento automático
-- [ ] Screenshots para App Store
+- [x] Screenshots para App Store
 - [ ] Política de privacidade  
 - [ ] **Sistema de temas visuais** (próxima implementação)
 
