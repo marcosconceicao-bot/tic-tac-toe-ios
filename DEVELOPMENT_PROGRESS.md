@@ -27,7 +27,7 @@
 ### 📋 V1.1 - "Visual & Gamification" (Próximas Features)
 - [x] **Sistema de temas** - 5 temas (Classic, Dark, Neon, Paper, Minimal) ✅
 - [x] **Sistema de achievements** - 15 conquistas com progressão ✅
-- [ ] **Estatísticas detalhadas** - Win rate, streaks, performance
+- [x] **Estatísticas detalhadas** - Win rate, streaks, performance ✅
 - [ ] **Tutorial interativo** - Onboarding + dicas AI
 
 ### 📋 V1.2 - "International & Social" (MASSIVE GROWTH - 2 meses)
