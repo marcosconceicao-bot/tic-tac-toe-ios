@@ -73,6 +73,15 @@ main() {
         return
     fi
     
+    # V1.1 Features Implementation
+    if ! task_complete "Sistema de temas visuais"; then
+        log "🎨 Implementing visual themes system..."
+        python3 implement_themes.py
+        complete_task "Sistema de temas visuais"
+        commit_changes "🎨 Add visual themes system (V1.1 feature)"
+        return
+    fi
+    
     # Phase 3 Tasks
     if ! task_complete "TestFlight beta testing"; then
         log "🧪 Preparing TestFlight build..."
