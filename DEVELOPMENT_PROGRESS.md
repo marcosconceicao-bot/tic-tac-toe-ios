@@ -28,7 +28,7 @@
 - [x] **Sistema de temas** - 5 temas (Classic, Dark, Neon, Paper, Minimal) ✅
 - [x] **Sistema de achievements** - 15 conquistas com progressão ✅
 - [x] **Estatísticas detalhadas** - Win rate, streaks, performance ✅
-- [ ] **Tutorial interativo** - Onboarding + dicas AI
+- [x] **Tutorial interativo**** - Onboarding + dicas AI
 
 ### 📋 V1.2 - "International & Social" (MASSIVE GROWTH - 2 meses)
 - [ ] **🌍 INTERNACIONALIZAÇÃO** - English + 4 languages (5x user base!)

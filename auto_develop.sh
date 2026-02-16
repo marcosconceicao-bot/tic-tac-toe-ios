@@ -26,13 +26,13 @@ update_progress() {
 # Function to check if task is complete
 task_complete() {
     local task="$1"
-    grep -q "\\- \\[x\\] $task" "$PROGRESS_FILE"
+    grep -q "\\- \\[x\\] .*$task" "$PROGRESS_FILE"
 }
 
 # Function to mark task complete
 complete_task() {
     local task="$1"
-    sed -i "s/- \[ \] $task/- [x] $task/" "$PROGRESS_FILE"
+    sed -i "s/- \\[ \\] .*$task/- [x] **$task**/g" "$PROGRESS_FILE"
     log "✅ Completed: $task"
 }
 
